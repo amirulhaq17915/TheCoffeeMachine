@@ -1,0 +1,11 @@
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\bin\Debug\netcoreapp3.1\TheCoffeeMachine.exe
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\bin\Debug\netcoreapp3.1\TheCoffeeMachine.deps.json
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\bin\Debug\netcoreapp3.1\TheCoffeeMachine.runtimeconfig.json
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\bin\Debug\netcoreapp3.1\TheCoffeeMachine.runtimeconfig.dev.json
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\bin\Debug\netcoreapp3.1\TheCoffeeMachine.dll
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\bin\Debug\netcoreapp3.1\TheCoffeeMachine.pdb
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\obj\Debug\netcoreapp3.1\TheCoffeeMachine.csprojAssemblyReference.cache
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\obj\Debug\netcoreapp3.1\TheCoffeeMachine.AssemblyInfoInputs.cache
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\obj\Debug\netcoreapp3.1\TheCoffeeMachine.AssemblyInfo.cs
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\obj\Debug\netcoreapp3.1\TheCoffeeMachine.dll
+E:\pemograman\latihan\TheCoffeeMachine\TheCoffeeMachine\obj\Debug\netcoreapp3.1\TheCoffeeMachine.pdb
